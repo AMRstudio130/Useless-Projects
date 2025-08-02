@@ -48,7 +48,6 @@ when we run this program,the laptop will change into a mad keyboard.Instead of a
 ## Team Contributions
 - A DEVANARAYAN: Build the program
 - ANWAR MR: Idea of the program
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
